@@ -1,4 +1,4 @@
-# BNBVisualizer - DEMO
+# BNBVisualizer Prototype - Under development (yet only works with [test data](https://github.com/KuKetto/BNBVisualizer/blob/master/dist/js/data.json "test data"))! - DEMO
 
 ### B&B Visualizer for an existing program that generates log files.
 ![demo](https://user-images.githubusercontent.com/39841262/176848704-60c44bc3-5713-4cce-89ce-6886d57bc580.gif)
