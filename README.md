@@ -1,6 +1,8 @@
 # BNBVisualizer - DEMO
 
 ### B&B Visualizer for an existing program that generates log files.
+![demo](https://user-images.githubusercontent.com/39841262/176848704-60c44bc3-5713-4cce-89ce-6886d57bc580.gif)
+
 Made with tauri (https://tauri.app/)
 
 Dependencies: Rust, Tauri cli
