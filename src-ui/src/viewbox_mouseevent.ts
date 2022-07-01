@@ -27,7 +27,7 @@ svgContainer.onwheel = function(e) {
 }
 
 
-svgContainer.onmousedown = function(e) {
+svgContainer.onmousedown = function(e){
    isPanning = true;
    startPoint = {x:e.x,y:e.y};   
 }
