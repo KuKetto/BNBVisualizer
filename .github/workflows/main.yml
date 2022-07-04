@@ -2,7 +2,7 @@ name: "Demo release"
 on:
   push:
     branches:
-      - master
+      - release
 
 jobs:
   publish-tauri:
